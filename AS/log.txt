@@ -1,0 +1,5 @@
+Total Types of Bread 4
+Total Pieces of Bread Sold 8
+Total Sales 2260.0
+Total Cost 1540.0
+Total Profit 720.0
